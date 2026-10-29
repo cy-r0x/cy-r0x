@@ -6,13 +6,11 @@ I build backend systems where correctness under concurrency, message ordering, a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/whahidul-islam-payel)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:whahidulislampayel@gmail.com)
-[![JudgeNot0](https://img.shields.io/badge/judgenot0.com-222222?style=flat-square&logo=codeforces&logoColor=white)](https://judgenot0.com)
-
 ---
 
 #### 🚀 Projects
 
-**[JudgeNot0](https://github.com/cy-r0x/judgenot0)**: distributed online judge ([judgenot0.com](https://judgenot0.com))
+**[JudgeNot0](https://github.com/cy-r0x/judgenot0)**: distributed online judge
 Served **450+ concurrent users** and **2,600+ submissions** in live contests on **16 worker nodes**.
 
 | Service | What it does | Stack |

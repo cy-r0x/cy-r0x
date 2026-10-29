@@ -10,16 +10,6 @@ I build backend systems where correctness under concurrency, message ordering, a
 
 ---
 
-#### 💼 Work
-
-**Junior Backend Engineer @ Taghyeer Technologies** (Jan 2026 – Present)
-
-- **Omnichannel support platform:** WhatsApp Cloud API + in-app chat across a NestJS API, a Go Kafka worker, and a Socket.IO gateway. Least-loaded agent routing with Redis ZSET + Lua, per-conversation ordering via a keyed Go worker pool and DLQ, horizontally scaled WebSockets, and LLM-based first-contact triage.
-- **Referral & commission engine:** multi-level payouts over PostgreSQL materialized-path trees (`bigint[]` + GIN), decimal-precise and deadlock-retried commission credits over Kafka.
-- **Multi-asset investment vault:** dual-currency ledger with overdraft-safe SQL transactions and nightly BullMQ ROI distribution.
-
----
-
 #### 🚀 Projects
 
 **[JudgeNot0](https://github.com/cy-r0x/judgenot0)**: distributed online judge ([judgenot0.com](https://judgenot0.com))

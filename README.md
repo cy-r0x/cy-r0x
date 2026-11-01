@@ -1,4 +1,4 @@
-### Hi, I'm Md Whahidul Islam Payel 👋
+### Hi, I'm Md Whahidul Islam 👋
 
 **Backend Software Engineer · Go / NestJS · Distributed Systems** · Dhaka, Bangladesh
 
